@@ -35,7 +35,7 @@ Implemented and trained a ResNet model from scratch on the CIFAR-10 dataset. Inc
 
 ## 📫 How to Reach Me
 
-- 📧 anushkagarg.se@gmail.com  
+- 📧 anushkagarg3008@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anushka-garg-764783254/)  
 - 🌐 [Portfolio Website](https://anushkagargportfolio.netlify.app/#/home) 
 
