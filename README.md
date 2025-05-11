@@ -10,17 +10,14 @@ I'm a graduate student passionate about **Machine Learning**, **Software Enginee
 
 ## 🚀 Featured Projects
 
-🌐 [**CKD Flask App**](https://github.com/anushkagarg-30/CKD-Flask-App)  
-A web app that predicts chronic kidney disease using ML, built with Flask, trained with SMOTE & classification models.
+🩺 [**CKD Flask App**](https://github.com/anushkagarg-30/CKD-Flask-App)  
+A web application that predicts Chronic Kidney Disease using machine learning and Flask. SMOTE was applied to handle class imbalance, improving F1-score and deployment readiness.
 
-🖼️ [**CLIP Model on Flickr8K**](https://github.com/anushkagarg-30/CLIP-Flickr8K)  
-Image-text matching using a vision-language model trained on Flickr8K captions and images.
+🛫 [**Flight Delay Prediction – Big Data**](https://github.com/anushkagarg-30/Prediction-of-Flight-Delays-using-Big-Data)  
+Analyzed and predicted U.S. flight delays using Apache Spark and machine learning at scale. Integrated weather and flight datasets for improved accuracy.
 
-🧵 [**DCGAN for FashionMNIST**](https://github.com/anushkagarg-30/DCGAN-FashionMNIST)  
-Deep Convolutional GAN generating realistic clothing images with dynamic training visualization.
-
-🧠 [**ResNet Patch Attack - Adversarial Project**](https://github.com/anushkagarg-30/Adversarial-Patch-Attack)  
-Evaluating a ResNet model under FGSM, I-FGSM, and patch attacks using ImageNet-subset.
+🧠 [**ResNet on CIFAR-10**](https://github.com/anushkagarg-30/Resnet-CIFAR)  
+Implemented and trained a ResNet model from scratch on the CIFAR-10 dataset. Includes training pipeline, loss/accuracy plots, and model evaluation.
 
 ---
 
